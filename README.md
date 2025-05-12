@@ -47,7 +47,7 @@ This dashboard is ideal for:
 
 ## Screenshot
 
-![Dashboard Screenshot](https://github.com/siddharthjad/SUPER-STORE-DASHBOARD/blob/main/Screenshot%202025-05-10%20223428.png)
+![Dashboard Screenshot](https://github.com/siddharthjad/DOMINOS-PIZZA-SALES-DASHBOARD/blob/main/Screenshot%202025-05-11%20115559.png)
 
 
 
